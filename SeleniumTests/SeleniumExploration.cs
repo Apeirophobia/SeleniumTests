@@ -3,7 +3,7 @@ using OpenQA.Selenium.Firefox;
 
 namespace SeleniumTests
 {
-    public class UnitTest1
+    public class SeleniumExploration
     {
         [Fact]
         public void Test1()
